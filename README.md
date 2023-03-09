@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Builing a classic rock-paper-scissors using JavaScript
+Builing a simple rock-paper-scissors game using HTML, CSS, and JavaScript. 
